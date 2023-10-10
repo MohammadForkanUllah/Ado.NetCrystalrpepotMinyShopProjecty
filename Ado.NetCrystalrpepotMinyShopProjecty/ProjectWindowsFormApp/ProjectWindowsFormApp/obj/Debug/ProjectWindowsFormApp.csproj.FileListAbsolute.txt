@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\bin\Debug\ProjectWindowsFormApp.exe
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\bin\Debug\ProjectWindowsFormApp.exe.config
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.Customers.resources
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.frmHome.resources
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.frmLogin.resources
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.Orders.resources
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.Products.resources
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.Suppliers.resources
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.exe
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\obj\Debug\ProjectWindowsFormApp.pdb
+C:\Users\USER\Desktop\New folder\ProjectWindowsFormApp\ProjectWindowsFormApp\bin\Debug\ProjectWindowsFormApp.pdb
